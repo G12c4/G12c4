@@ -1,4 +1,4 @@
-## `Hey There!` <img src="https://giphy.com/embed/fX2oud7WOkCyO6jtyv" alt="fire" width="36" height="36"/>
+## `Hey There!` <img src="https://github.com/G12c4/G12c4/blob/main/fire.gif" alt="fire" width="36" height="36"/>
 
 ### I'm Josip and I'm combining web development with business solutions. 😀
 
