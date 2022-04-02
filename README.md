@@ -1,4 +1,4 @@
-## `Hey There!` <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="twitter" width="36" height="36"/>
+## `Hey There!` <img src="https://giphy.com/embed/fX2oud7WOkCyO6jtyv" alt="fire" width="36" height="36"/>
 
 ### I'm Josip and I'm combining web development with business solutions. 😀
 
@@ -30,13 +30,15 @@ I use React with Bulma/Tailwind or React admin. I also use Python for various bu
 <br/><br/>
 
 ## Random Things About Me
-Based in Croatia<br />
-<img src="https://github.com/G12c4/G12c4/blob/main/website.svg" alt="Agency" width="20" height="20"/> My [website](https://josipgrcic.dev/)
+
+<img src="https://github.com/G12c4/G12c4/blob/main/croatia.svg" alt="Croatia" width="20" height="20"/> Based in Croatia
 <br />
-<img src="https://github.com/G12c4/G12c4/blob/main/linkedin.svg" alt="Youtube" width="20" height="20"/> My [linkedIn](https://www.linkedin.com/in/g12c4/)
+<img src="https://github.com/G12c4/G12c4/blob/main/website.svg" alt="Website" width="20" height="20"/> My [website](https://josipgrcic.dev/)
 <br />
-<img src="https://github.com/G12c4/G12c4/blob/main/resume.svg" alt="Youtube" width="20" height="20"/> My [resume](https://drive.google.com/file/d/1VC1RcHiiJ7YCJmQLp_InTNIw6zrEbP__/view?usp=sharing)
+<img src="https://github.com/G12c4/G12c4/blob/main/linkedin.svg" alt="LinkedIn" width="20" height="20"/> My [linkedIn](https://www.linkedin.com/in/g12c4/)
 <br />
-<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/ninja_1f977.png?raw=true" alt="Colab" width="20" height="20"/> I’m looking to collaborate with other passionate developers.
+<img src="https://github.com/G12c4/G12c4/blob/main/resume.svg" alt="Resume" width="20" height="20"/> My [resume](https://drive.google.com/file/d/1VC1RcHiiJ7YCJmQLp_InTNIw6zrEbP__/view?usp=sharing)
 <br />
-<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/man-mage_1f9d9-200d-2642-fe0f.png?raw=true" alt="Magic" width="20" height="20"/> I think algorithms are magic.
+<img src="https://github.com/G12c4/G12c4/blob/main/colab.png" alt="Colab" width="20" height="20"/> I’m looking to collaborate with other passionate developers.
+<br />
+<img src="https://github.com/G12c4/G12c4/blob/main/magic.png" alt="Magic" width="20" height="20"/> I think algorithms are magic.
