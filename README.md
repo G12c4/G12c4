@@ -24,9 +24,6 @@ I use React with Bulma/Tailwind or React admin. I also use Python for various bu
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/G12c4/G12c4/blob/main/mongodb.svg" />
 <img align="left" alt="PostgresQL" width="26px" src="https://github.com/G12c4/G12c4/blob/main/postgresql.svg" />
 <img align="left" alt="Netlify" width="26px" src="https://github.com/G12c4/G12c4/blob/main/netlify.svg" />
-<img align="left" alt="Figma" width="26px" height="26px" src="https://github.com/G12c4/G12c4/blob/main/figma.svg" />
-<img align="left" alt="Photoshop" width="26px" src="https://github.com/G12c4/G12c4/blob/main/photoshop.svg" />
-<img align="left" alt="Illustrator" width="26px" src="https://github.com/G12c4/G12c4/blob/main/illustrator.svg" />
 <br/><br/>
 
 ## Random Things About Me
