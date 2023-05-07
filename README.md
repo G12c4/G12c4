@@ -4,9 +4,11 @@
 
 ## My Focus
 
-I'm a full-stack developer (mostly frontend) passionate about working with React.
-When I build websites I use Next.js with my SEO experience and when I build web-apps 
-I use React with Bulma/Tailwind or React admin. I also use Python for various business solutions.
+I'm a Python-driven software engineer with a strong passion for developing AI-powered applications in my free time.
+I love working with libraries like Langchain, llama-index, open source LLMs, and OpenAI. Although I'm not a machine learning expert, I relish the opportunity to explore the potential of AI and machine learning in my projects.
+<br/>
+As a full-stack developer, I utilize Next.js, SvelteKit, or Astro when building websites, and React or Svelte with Bulma/Tailwind for web-apps. 
+Python is my go-to language for backend development.
 <br/>
 
 ## My Stack
@@ -21,9 +23,6 @@ I use React with Bulma/Tailwind or React admin. I also use Python for various bu
 <img align="left" alt="Svelte" width="26px" height="26px" src="https://github.com/G12c4/G12c4/blob/main/svelte-1.svg" />
 <img align="left" alt="NodeJS" width="26px" height="26px" src="https://github.com/G12c4/G12c4/blob/main/nodejs.svg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/G12c4/G12c4/blob/main/python.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/G12c4/G12c4/blob/main/mongodb.svg" />
-<img align="left" alt="PostgresQL" width="26px" src="https://github.com/G12c4/G12c4/blob/main/postgresql.svg" />
-<img align="left" alt="Netlify" width="26px" src="https://github.com/G12c4/G12c4/blob/main/netlify.svg" />
 <br/><br/>
 
 ## Random Things About Me
