@@ -33,8 +33,6 @@ Python is my go-to language for backend development.
 <br />
 <img src="https://github.com/G12c4/G12c4/blob/main/linkedin.svg" alt="LinkedIn" width="20" height="20"/> My [linkedIn](https://www.linkedin.com/in/g12c4/)
 <br />
-<img src="https://github.com/G12c4/G12c4/blob/main/resume.svg" alt="Resume" width="20" height="20"/> My [resume](https://drive.google.com/file/d/1VC1RcHiiJ7YCJmQLp_InTNIw6zrEbP__/view?usp=sharing)
-<br />
 <img src="https://github.com/G12c4/G12c4/blob/main/colab.png" alt="Colab" width="20" height="20"/> I’m looking to collaborate with other passionate developers.
 <br />
 <img src="https://github.com/G12c4/G12c4/blob/main/magic.png" alt="Magic" width="20" height="20"/> I think algorithms are magic.
